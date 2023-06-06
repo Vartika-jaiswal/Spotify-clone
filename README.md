@@ -1,1 +1,1 @@
-# Spotify-clone-Vartika-jaiswal-
+# Spotify-clone
